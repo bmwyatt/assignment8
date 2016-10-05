@@ -5,3 +5,5 @@
 setwd("C:/Users/Briana/Dropbox (Personal)/Courses/PLNT 5110/Week 8")
 
 # This script analyzes house elf data from Dr. Granger.
+
+file <- read.csv('data/houseelf_earlength_dna_data.csv')
